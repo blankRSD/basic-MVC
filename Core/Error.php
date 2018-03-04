@@ -46,7 +46,7 @@ class Error
 			}
 			else
 			{
-				echo "<h1>An Error Occured.</h1>"
+				echo "<h1>An Error Occured.</h1>";
 			}
 		}
 	}
